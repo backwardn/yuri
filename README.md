@@ -1,6 +1,8 @@
 # yuri
 
 [![GoDoc](https://godoc.org/github.com/eskriett/yuri?status.svg)](https://godoc.org/github.com/eskriett/yuri)
+[![Build
+Status](https://travis-ci.org/eskriett/yuri.svg?branch=master)](https://travis-ci.org/eskriett/yuri)
 
 The blazing fast way to **Y**ank **URI**s from text.
 
