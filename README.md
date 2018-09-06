@@ -30,7 +30,7 @@ http://example.com/
 
 ### Implementation details
 
-yuri tries to extracting URIs of numerous schemes from text as fast as possible.
+yuri tries to extract URIs of numerous schemes from text as fast as possible.
 Compared to most similar tools which use regular expressions, yuri uses a
 [DFA](https://en.wikipedia.org/wiki/Deterministic_finite_automaton) built using
 [ragel](http://www.colm.net/open-source/ragel/) for performance.
